@@ -1,7 +1,8 @@
-a48a36d4ffba0281aec25f5dfdfd53f5 *DESCRIPTION
-c89f1faff50fe5d22b2f1853d8120685 *NAMESPACE
-977786cae1dc36f4e7d631621d51a3c3 *R/conicfit.R
-ea98c03c85cbb6d1b97422e613a4230a *demo/00Index
+4c50251a80a40a82f9e79ea24e99cacf *DESCRIPTION
+75f78e9a7c1290ac8aaf178af6021997 *NAMESPACE
+c1ad12d58b41b33d0cbc34166c1d7b16 *R/conicfit.R
+728bb6cac71925ad99d3a6870d9edf5b *demo/00Index
+d4ba1860fd16805cbe090df2acdacc68 *demo/booksteindemo.R
 85b724ad2f90e755fe44d737704658d6 *demo/conicfit.circles.R
 33924c7a9a9036157183b26eec003e58 *demo/conicfit.ellipses.R
 87d98b45466f9de52a1ace2453a79315 *demo/conicfit.quicktest.R
@@ -26,6 +27,8 @@ f47044ac04c79c88cff3a54b65ab06ec *man/ResidualsG.Rd
 d893a790d26b4c7971da84db7eae420e *man/calculateCircle.Rd
 45566439fc22da2f9cbe0ea73815ff18 *man/calculateEllipse.Rd
 87d445dad8449677c1b126e93c12321d *man/conicfit-internal.Rd
+fe01a2c89f71fc2171690197ad446501 *man/ellipticity.Rd
 ad3bb1e56c301edbb53b62965438ece2 *man/estimateInitialGuessCircle.Rd
 c80b45f1317e856614d062cda058310d *man/fit.conicLMA.Rd
 40d33d84fbcbf03d62a3cdb60350d1b3 *man/fit.ellipseLMG.Rd
+1d5d50c00cbd67c694362d33188c2437 *man/fitbookstein.Rd
